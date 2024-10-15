@@ -52,14 +52,4 @@ https://www.codeover.cn
 - 语义化标签, 更易于 SEO 优化, 提升博客价值
 
 
-## 支持
 
-欢迎 **pull request** 或者 提交 **issues**.
-
-如有问题，请发邮件到 [fdong26@gmail.com](mailto:fdong26@gmail.com). 我会及时回复。
-
-如果你觉得主题还不错的话，欢迎给我 Github 点个 Star，谢谢！
-
-## License
-
-MIT
